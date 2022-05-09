@@ -2,9 +2,9 @@
 
 ### ZK main index
 
-### [Literature reviews](INDEX/literature_reviews.md)
-
-### [Researched topics of interest](INDEX/researched_topics.md)
-
-### [Interactive notes, games and utilities](INDEX/utility.md)
+### [IDEAS](INDEX/researched_topics.md)
+----
+### [Literature](INDEX/literature_reviews.md)
+----
+### [Interactive](INDEX/utility.md)
 
